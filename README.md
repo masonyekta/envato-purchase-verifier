@@ -1,4 +1,4 @@
-# Envato purchase verifier using Next.js
+# Envato Purchase Verifier using Next.js
 
 This is a purchase verifier for Envator using Next.js with Tailwind CSS. It uses the [Envato package](https://www.npmjs.com/package/envato) to verify a purchase and displays some relevant information.
 
