@@ -46,7 +46,7 @@ export const PurchaseVerifier = () => {
 							focus:outline-none focus:ring-neutral-800 sm:text-sm"
 							placeholder="Enter Purchase Code"
 						/>
-						<div className="mt-3 rounded-md sm:mt-0 sm:ml-3 sm:flex-shrink-0">
+						<div className="mt-3 rounded-md sm:mt-0 sm:ml-2 sm:flex-shrink-0">
 							<button
 								onClick={handleClick}
 								type="submit"
