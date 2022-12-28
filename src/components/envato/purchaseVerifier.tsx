@@ -54,7 +54,7 @@ export const PurchaseVerifier = () => {
 								justify-center rounded-md border border-transparent bg-neutral-900 
 								px-5 py-4 font-medium text-white hover:bg-neutral-700  
 								focus:outline-none focus:ring-white focus:ring-offset-2 focus:ring-offset-neutral-700 
-								sm:mt-0 sm:ml-3 sm:w-auto sm:flex-shrink-0 sm:text-sm"
+								sm:mt-0 sm:ml-2 sm:w-auto sm:flex-shrink-0 sm:text-sm"
 							>
 								Verify Purchase
 							</button>
