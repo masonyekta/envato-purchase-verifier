@@ -2,7 +2,7 @@
 
 This is a purchase verifier for Envator using Next.js with Tailwind CSS. It uses the [Envato package](https://www.npmjs.com/package/envato) to verify a purchase and displays some relevant information.
 
-![Preview](https://i.imgur.com/Lg4HoDn.jpg)
+![Preview](https://i.imgur.com/HJNWXj9.jpg)
 
 ## Getting Started
 

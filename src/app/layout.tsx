@@ -17,7 +17,7 @@ export default function RootLayout({ children }: RootLayoutProps) {
 	return (
 		<html lang="en" className={cn('font-sans antialiased', fontSans.variable)}>
 			<head />
-			<body className="min-h-screen">
+			<body className="min-h-screen bg-orange-10">
 				<div className="container grid h-screen items-center justify-center gap-6 pt-6 pb-8 md:pt-10 md:pb-12 lg:pt-16 lg:pb-24">
 					{children}
 					<Footer />
