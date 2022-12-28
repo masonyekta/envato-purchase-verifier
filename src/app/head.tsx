@@ -1,7 +1,7 @@
 export default function Head() {
 	return (
 		<>
-			<title>NextJS Starter Template</title>
+			<title>Envato Purchase Verifier</title>
 			<meta charSet="utf-8" />
 			<meta name="viewport" content="width=device-width" />
 			<meta name="description" content="Site Description" />

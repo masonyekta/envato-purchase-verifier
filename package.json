@@ -15,6 +15,7 @@
 		"start": "next start"
 	},
 	"dependencies": {
+		"@heroicons/react": "2.0.13",
 		"@next/font": "13.0.5",
 		"clsx": "1.2.1",
 		"envato": "3.0.8",
